@@ -7,19 +7,19 @@
   },"1": {
     "doc": "课程通知",
     "title": "第0周课程通知",
-    "content": "Aug 26 &middot; 0 min read 欢迎来到《离散数学》课程！ . ",
+    "content": "Jan 10 &middot; 0 min read 欢迎来到《离散数学》课程！ . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"2": {
     "doc": "主页",
-    "title": "《离散数学》2024秋季学期",
+    "title": "《离散数学》2025春季学期",
     "content": "上海师范大学《离散数学》(080931104261.01) . ",
-    "url": "http://localhost:4000/#%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A62024%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F",
-    "relUrl": "/#离散数学2024秋季学期"
+    "url": "http://localhost:4000/#%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A62025%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F",
+    "relUrl": "/#离散数学2025春季学期"
   },"3": {
     "doc": "主页",
     "title": "第0周课程通知",
-    "content": "Aug 26 &middot; 0 min read 欢迎来到《离散数学》课程！ . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "content": "Jan 10 &middot; 0 min read 欢迎来到《离散数学》课程！ . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"4": {
@@ -31,7 +31,7 @@
   },"5": {
     "doc": "主页",
     "title": "课程基本信息",
-    "content": "主讲人: 杨启哲, qzyang(at)shnu.edu.cn . 课程时间地点:   8:00 a.m.- 9:30 a.m.   每周三(1-16周), 奉贤3教楼401          9:45 a.m.- 11:15 a.m.  每周五(1-16周), 奉贤3教楼401 . 更多信息可以关注 课程安排. ",
+    "content": "主讲人: 杨启哲, qzyang(at)shnu.edu.cn . 课程时间地点:   8:00 a.m.- 9:30 a.m.   每周二(1-16周), 奉贤3教楼312          9:45 a.m.- 11:15 a.m.  每周五(1-16周), 奉贤3教楼212 . 更多信息可以关注 课程安排. ",
     "url": "http://localhost:4000/#%E8%AF%BE%E7%A8%8B%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF",
     "relUrl": "/#课程基本信息"
   },"6": {
@@ -42,22 +42,22 @@
     "relUrl": "/#课程反馈"
   },"7": {
     "doc": "主页",
+    "title": "之前的课程资料",
+    "content": ". | 2024年秋季学期 | 2023年秋季学期 | . ",
+    "url": "http://localhost:4000/#%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99",
+    "relUrl": "/#之前的课程资料"
+  },"8": {
+    "doc": "主页",
     "title": "课程通知",
     "content": " ",
     "url": "http://localhost:4000/#%E8%AF%BE%E7%A8%8B%E9%80%9A%E7%9F%A5",
     "relUrl": "/#课程通知"
-  },"8": {
-    "doc": "主页",
-    "title": "第0周课程通知",
-    "content": "Aug 26 &middot; 0 min read 欢迎来到《离散数学》课程！ . ",
-    "url": "http://localhost:4000/",
-    "relUrl": "/"
   },"9": {
     "doc": "主页",
-    "title": "之前的课程资料",
-    "content": ". | 2023年秋季学期 | . ",
-    "url": "http://localhost:4000/#%E4%B9%8B%E5%89%8D%E7%9A%84%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99",
-    "relUrl": "/#之前的课程资料"
+    "title": "第0周课程通知",
+    "content": "Jan 10 &middot; 0 min read 欢迎来到《离散数学》课程！ . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
   },"10": {
     "doc": "主页",
     "title": "主页",
@@ -73,7 +73,7 @@
   },"12": {
     "doc": "课程安排",
     "title": "课程课件",
-    "content": "Lec 0 概览(Overview) [slides-zh] 数理逻辑部分： . Lec 1 命题逻辑(I)(Proposition Logic(I)) [slides-zh] Lec 2 命题逻辑(II)(Proposition Logic(II)) [slides-zh] Lec 3 命题逻辑(III)(Proposition Logic(III)) [slides-zh] ",
+    "content": "Lec 0 概览(Overview) [slides-zh] 数理逻辑部分： . Lec 1 命题逻辑(I)(Proposition Logic(I)) [slides-zh] Lec 2 命题逻辑(II)(Proposition Logic(II)) [slides-zh] Lec 3 命题逻辑(III)(Proposition Logic(III)) [slides-zh] Lec 4 一阶逻辑(I)(First-Order Logic(I)) [slides-zh] Lec 5 一阶逻辑(II)(First-Order Logic(II)) [slides-zh] 集合论部分： . Lec 6 集合论(Set Theory) [slides-zh] Lec 7 关系(Relation) [slides-zh] Lec 8 函数(Function) [slides-zh] 图论部分： . Lec 9 图的基本概念(Basic Concept of Graph) [slides-zh] Lec 10 图的路径(Path of Graph) [slides-zh] Lec 11 树(Tree) [slides-zh] 组合计数部分： . Lec 12 组合计数基础(Combinatorial Counting) [slides-zh] 课程总结： . Lec 13 复习(Review) [slides-zh] ",
     "url": "http://localhost:4000/schedule/#%E8%AF%BE%E7%A8%8B%E8%AF%BE%E4%BB%B6",
     "relUrl": "/schedule/#课程课件"
   },"13": {
@@ -97,7 +97,7 @@
   },"16": {
     "doc": "课程信息",
     "title": "目录",
-    "content": ". | 概览 | 课程政策 . | 关于作弊 | 课程作业 | 期末考试 | 分数计算 | . | 课程资源 | . ",
+    "content": ". | 概览 | 课程政策 . | 关于作弊 | 课程作业 | 作业提交要求(重要!) | 期末考试 | 分数计算 | . | 课程资源 | . ",
     "url": "http://localhost:4000/syllabus/#%E7%9B%AE%E5%BD%95",
     "relUrl": "/syllabus/#目录"
   },"17": {
@@ -109,7 +109,7 @@
   },"18": {
     "doc": "课程信息",
     "title": "课程政策",
-    "content": "关于作弊 . 这门课鼓励大家互相讨论，并从网上获取相关资源来完成作业。当然你也可以直接来询问老师。 然而，直接复制粘贴答案是被禁止的。 如果我询问时无法解释清楚你的作业是如何完成的，那我便会判断你是抄袭的。不要冒这个风险。 . 课程作业 . 课程作业HW将每周发布一次。 . 请注意，迟交作业将受到25%的成绩惩罚。 . 期末考试 . 本课程只有一次期末考试，有关期末考试的信息将在之后再公布。 . 分数计算 . 学生的成绩Grade 将由以下两个部分决定： . | 作业成绩HW, | 期末考试成绩Exam, | . 最终的成绩是上述两部分的加权平均： Grade = 40%* HW + 60%* Exam . ",
+    "content": "关于作弊 . 这门课鼓励大家互相讨论，并从网上获取相关资源来完成作业。当然你也可以直接来询问老师。 然而，直接复制粘贴答案是被禁止的。 如果我询问时无法解释清楚你的作业是如何完成的，那我便会判断你是抄袭的。不要冒这个风险。 . 课程作业 . 课程作业HW将每周发布一次，具体内容可以定期查阅课程主页的课程通知和课程安排。 . 请注意，迟交作业将受到25%的成绩惩罚。 . 作业提交要求(重要!) . 本课程可以通过线下提交和邮件提交两种方式提交作业。请注意，超星学习通仅用于发布课程通知，并不参与其他课程活动。 . 关于线下提交： . | 请各位同学在提交的作业上写清楚自己的姓名和学号。 | 线下提交的作业的提交时间为距截止日期之后最近的一次课堂。 | 每次作业我会在下次作业提交的时候进行返还，所以请准备使用练习本的同学准备好两本练习本。 | . 关于邮件提交： . | 请各位同学提交pdf格式的邮件，不要提交图片或者word文档。（但你可以选择将作业拍照拍下来再将图片转成pdf），文件请命名为：学号-姓名-离散第x次作业，例如：20210001-杨启哲-离散第x次作业。第x次请以发布的作业标题为准。 | 发送的邮箱为： qzyang(at)shnu.edu.cn | 邮件标题请按照以下格式：学号-姓名-离散第x次作业提交，例如：20210001-杨启哲-离散第x次作业提交，并将完成的作业按上述要求(命名+格式)作为附件进行发送。 | 邮件提交的截止日期就是网站上发布的作业截止日期，请各位同学注意不要晚交。 | . 请各位同学务必严格遵守上述提交要求。 . 期末考试 . 本课程只有一次期末考试，有关期末考试的信息将在之后再公布。 . 分数计算 . 学生的成绩Grade 将由以下两个部分决定： . | 作业成绩HW, | 期末考试成绩Exam, | . 最终的成绩是上述两部分的加权平均： Grade = 40%* HW + 60%* Exam . ",
     "url": "http://localhost:4000/syllabus/#%E8%AF%BE%E7%A8%8B%E6%94%BF%E7%AD%96",
     "relUrl": "/syllabus/#课程政策"
   },"19": {
