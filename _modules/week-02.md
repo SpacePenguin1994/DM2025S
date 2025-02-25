@@ -6,3 +6,8 @@ HW 1
 :  **HW**{: .label .label-red }Released: [Homework #1-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw1-noblank.pdf) &nbsp; [Homework #1-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw1-blank.pdf)
 :  **DUE**{: .label .label-yellow} Feb 24 24：00
 
+HW 2
+:  **HW**{: .label .label-red }Released: [Homework #2-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw2-noblank.pdf) &nbsp; [Homework #2-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw2-blank.pdf)
+:  **DUE**{: .label .label-yellow} Mar 3 24：00
+
+
