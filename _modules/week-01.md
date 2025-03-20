@@ -30,3 +30,17 @@ Lec 5
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/slides/DMLec5-handout.pdf)\]
 
 
+
+集合论部分：
+
+Lec 6
+: **集合论(I)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/slides/DMLec6-handout.pdf)\]
+
+Lec 7
+: **关系(Relation)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/slides/DMLec7-handout.pdf)\]
+
+Lec 8
+: **函数(Function)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/slides/DMLec8-handout.pdf)\]
