@@ -22,4 +22,4 @@ HW 6
 : **HW**{: .label .label-red }Released:[Homework #6-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw6-answer.pdf)  
 
 HW 7
-: **HW**{: .label .label-red }Released:[Homework #6-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw7-answer.pdf)  
+: **HW**{: .label .label-red }Released:[Homework #7-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw7-answer.pdf)  
