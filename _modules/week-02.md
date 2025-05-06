@@ -45,3 +45,7 @@ HW 10
 HW 11
 :  **HW**{: .label .label-red }Released: [Homework #11-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw11-noblank.pdf) &nbsp; [Homework #11-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw11-blank.pdf)
 :  **DUE**{: .label .label-yellow} May 5 24：00
+
+HW 12
+:  **HW**{: .label .label-red }Released: [Homework #12-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw12-noblank.pdf) &nbsp; [Homework #12-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw12-blank.pdf)
+:  **DUE**{: .label .label-yellow} May 12 24：00

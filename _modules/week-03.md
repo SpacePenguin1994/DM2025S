@@ -32,3 +32,6 @@ HW 9
 
 HW 10
 : **HW**{: .label .label-red }Released:[Homework #10-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw10-answer.pdf)  
+
+HW 11
+: **HW**{: .label .label-red }Released:[Homework #11-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw11-answer.pdf)  
