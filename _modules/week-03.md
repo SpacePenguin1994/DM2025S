@@ -38,3 +38,6 @@ HW 11
 
 HW 12
 : **HW**{: .label .label-red }Released:[Homework #12-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw12-answer.pdf)  
+
+HW 13
+: **HW**{: .label .label-red }Released:[Homework #13-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/homework/DM-hw13-answer.pdf)  
