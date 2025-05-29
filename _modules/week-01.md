@@ -59,3 +59,10 @@ Lec 10
 Lec 11
 : **树(Tree)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/slides/DMLec11-handout.pdf)\]
+
+
+组合部分：
+
+Lec 12
+: **组合计数基础(Combinatorial Counting)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025s/slides/DMLec12-handout.pdf)\]
